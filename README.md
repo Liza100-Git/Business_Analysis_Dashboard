@@ -58,9 +58,9 @@ What is the total revenue and profit by region?
 
 Which product category generates the highest profit?
 
-Monthly sales and profit trend analysis
+Which product category generates more revenue?
 
-Which customer segment contributes the most revenue?
+Which region has sold highest unit?
 
 Cost vs revenue comparison across regions
 
